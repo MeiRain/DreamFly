@@ -1,0 +1,32 @@
+.\objects\ws2812b.o: ..\BSP\WS2812B\WS2812B.c
+.\objects\ws2812b.o: D:\Keil uVision5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\ws2812b.o: ..\System\Delay.h
+.\objects\ws2812b.o: ..\Core\Inc\stm32f4xx.h
+.\objects\ws2812b.o: ..\Drivers\CMSIS\core_cm4.h
+.\objects\ws2812b.o: D:\Keil uVision5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ws2812b.o: ..\Drivers\CMSIS\core_cmInstr.h
+.\objects\ws2812b.o: ..\Drivers\CMSIS\core_cmFunc.h
+.\objects\ws2812b.o: ..\Drivers\CMSIS\core_cmSimd.h
+.\objects\ws2812b.o: ..\Drivers\CMSIS\system_stm32f4xx.h
+.\objects\ws2812b.o: ..\Core\Inc\stm32f4xx_conf.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_adc.h
+.\objects\ws2812b.o: ..\Core\Inc\stm32f4xx.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_crc.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_dbgmcu.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_dma.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_exti.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_flash.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_gpio.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_i2c.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_iwdg.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_pwr.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_rcc.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_rtc.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_sdio.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_spi.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_syscfg.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_tim.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_usart.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_wwdg.h
+.\objects\ws2812b.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\misc.h
+.\objects\ws2812b.o: ..\BSP\WS2812B\WS2812B.h

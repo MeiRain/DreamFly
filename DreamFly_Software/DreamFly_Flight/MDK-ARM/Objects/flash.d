@@ -1,0 +1,32 @@
+.\objects\flash.o: ..\Core\Src\FLASH.c
+.\objects\flash.o: ..\Core\Inc\USART.h
+.\objects\flash.o: ..\Core\Inc\stm32f4xx.h
+.\objects\flash.o: ..\Drivers\CMSIS\core_cm4.h
+.\objects\flash.o: D:\Keil uVision5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\flash.o: ..\Drivers\CMSIS\core_cmInstr.h
+.\objects\flash.o: ..\Drivers\CMSIS\core_cmFunc.h
+.\objects\flash.o: ..\Drivers\CMSIS\core_cmSimd.h
+.\objects\flash.o: ..\Drivers\CMSIS\system_stm32f4xx.h
+.\objects\flash.o: ..\Core\Inc\stm32f4xx_conf.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_adc.h
+.\objects\flash.o: ..\Core\Inc\stm32f4xx.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_crc.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_dbgmcu.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_dma.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_exti.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_flash.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_gpio.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_i2c.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_iwdg.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_pwr.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_rcc.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_rtc.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_sdio.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_spi.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_syscfg.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_tim.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_usart.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_wwdg.h
+.\objects\flash.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\misc.h
+.\objects\flash.o: D:\Keil uVision5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\flash.o: ..\Core\Inc\Flash.h

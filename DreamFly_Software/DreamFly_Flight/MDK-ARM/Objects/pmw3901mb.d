@@ -1,0 +1,35 @@
+.\objects\pmw3901mb.o: ..\BSP\PWM3901MB\PMW3901MB.c
+.\objects\pmw3901mb.o: ..\System\Delay.h
+.\objects\pmw3901mb.o: ..\Core\Inc\stm32f4xx.h
+.\objects\pmw3901mb.o: ..\Drivers\CMSIS\core_cm4.h
+.\objects\pmw3901mb.o: D:\Keil uVision5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pmw3901mb.o: ..\Drivers\CMSIS\core_cmInstr.h
+.\objects\pmw3901mb.o: ..\Drivers\CMSIS\core_cmFunc.h
+.\objects\pmw3901mb.o: ..\Drivers\CMSIS\core_cmSimd.h
+.\objects\pmw3901mb.o: ..\Drivers\CMSIS\system_stm32f4xx.h
+.\objects\pmw3901mb.o: ..\Core\Inc\stm32f4xx_conf.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_adc.h
+.\objects\pmw3901mb.o: ..\Core\Inc\stm32f4xx.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_crc.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_dbgmcu.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_dma.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_exti.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_flash.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_gpio.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_i2c.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_iwdg.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_pwr.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_rcc.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_rtc.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_sdio.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_spi.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_syscfg.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_tim.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_usart.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_wwdg.h
+.\objects\pmw3901mb.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\misc.h
+.\objects\pmw3901mb.o: ..\Core\Inc\SPI.h
+.\objects\pmw3901mb.o: ..\Core\Inc\USART.h
+.\objects\pmw3901mb.o: D:\Keil uVision5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\pmw3901mb.o: ..\BSP\PWM3901MB\PMW3901MB.h
+.\objects\pmw3901mb.o: ..\BSP\PWM3901MB\PMW3901MB_Register.h

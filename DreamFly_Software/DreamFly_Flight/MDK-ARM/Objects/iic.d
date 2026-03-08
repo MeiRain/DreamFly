@@ -1,0 +1,32 @@
+.\objects\iic.o: ..\Core\Src\IIC.c
+.\objects\iic.o: D:\Keil uVision5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\iic.o: ..\System\Delay.h
+.\objects\iic.o: ..\Core\Inc\stm32f4xx.h
+.\objects\iic.o: ..\Drivers\CMSIS\core_cm4.h
+.\objects\iic.o: D:\Keil uVision5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\iic.o: ..\Drivers\CMSIS\core_cmInstr.h
+.\objects\iic.o: ..\Drivers\CMSIS\core_cmFunc.h
+.\objects\iic.o: ..\Drivers\CMSIS\core_cmSimd.h
+.\objects\iic.o: ..\Drivers\CMSIS\system_stm32f4xx.h
+.\objects\iic.o: ..\Core\Inc\stm32f4xx_conf.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_adc.h
+.\objects\iic.o: ..\Core\Inc\stm32f4xx.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_crc.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_dbgmcu.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_dma.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_exti.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_flash.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_gpio.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_i2c.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_iwdg.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_pwr.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_rcc.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_rtc.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_sdio.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_spi.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_syscfg.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_tim.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_usart.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_wwdg.h
+.\objects\iic.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\misc.h
+.\objects\iic.o: ..\Core\Inc\IIC.h

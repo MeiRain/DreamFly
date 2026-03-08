@@ -1,0 +1,31 @@
+.\objects\attitude.o: ..\Common\Attitude.c
+.\objects\attitude.o: D:\Keil uVision5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\attitude.o: ..\Common\Attitude.h
+.\objects\attitude.o: ..\Core\Inc\stm32f4xx.h
+.\objects\attitude.o: ..\Drivers\CMSIS\core_cm4.h
+.\objects\attitude.o: D:\Keil uVision5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\attitude.o: ..\Drivers\CMSIS\core_cmInstr.h
+.\objects\attitude.o: ..\Drivers\CMSIS\core_cmFunc.h
+.\objects\attitude.o: ..\Drivers\CMSIS\core_cmSimd.h
+.\objects\attitude.o: ..\Drivers\CMSIS\system_stm32f4xx.h
+.\objects\attitude.o: ..\Core\Inc\stm32f4xx_conf.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_adc.h
+.\objects\attitude.o: ..\Core\Inc\stm32f4xx.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_crc.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_dbgmcu.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_dma.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_exti.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_flash.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_gpio.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_i2c.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_iwdg.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_pwr.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_rcc.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_rtc.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_sdio.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_spi.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_syscfg.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_tim.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_usart.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\stm32f4xx_wwdg.h
+.\objects\attitude.o: ..\Drivers\STM32F4xx_StdPeriph_Driver\Inc\misc.h
